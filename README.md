@@ -1,4 +1,10 @@
-Hello!
+###Hello!
+<b>
+
 This is Practice Software Development repo with assignments that I have done.
+
 Main.js is assignmant 2 - IDW interpolation
-assignmant_3 document is assignmant 3 - Library Items
+
+passignmant_3 document is assignmant 3 - Library Items
+
+</b>
